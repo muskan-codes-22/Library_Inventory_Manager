@@ -1,0 +1,14 @@
+[
+    {
+        "title": "harry potter",
+        "author": "rowling",
+        "isbn": "12345",
+        "status": "available"
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "isbn": "101",
+        "status": "available"
+    }
+]
