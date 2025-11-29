@@ -125,16 +125,23 @@ Example of `catalog.json`:
 ```json
 [
     {
-        "title": "Alice in Wonderland",
-        "author": "Lewis Carroll",
+        "title": "harry potter",
+        "author": "rowling",
         "isbn": "12345",
+        "status": "available"
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "isbn": "101",
         "status": "available"
     }
 ]
 
 ---
 
-👩‍💻 Author
+
+##  👩‍💻 Author
 
 Muskan Kumari
 Programming for Problem Solving using Python
