@@ -54,12 +54,12 @@ This allows different library items to be printed and saved in their own way.
 ```
 LIBRARY_INVENTORY_MANAGER/
 │
-├── book.py # Book class with OOP features
-├── library_item.py # Abstract base class (abstraction)
-├── inventory.py # LibraryInventory class + JSON handling
-├── main.py # Command-line interface
-├── catalog.json # Stores all book records
-└── README.md # Documentation
+├── book.py 
+├── library_item.py 
+├── inventory.py 
+├── main.py 
+├── catalog.json 
+└── README.md 
 ```
 
 ---
@@ -137,9 +137,8 @@ Example of `catalog.json`:
         "status": "available"
     }
 ]
-
+```
 ---
-
 
 ##  👩‍💻 Author
 
